@@ -1,6 +1,6 @@
 * In the project I learned Quiz App click on option 
 on "button" it triggers and automatically passes the next question 
-by using currentquestion variable and options also
+by using 'currentquestion' variable and 'answeroptions' also
 
 
 ![image](https://github.com/Vasanthkarri/Quiz-App-6/assets/95275323/b3e4150d-16d7-49f1-821e-40413305448e)
