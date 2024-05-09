@@ -1,8 +1,9 @@
 * In the project I learned Quiz App how to change question and answer dynamically.
 * click on option 
 on "button" it triggers and automatically passes the next question 
-by using 'currentquestion' variable and 'answeroptions' also
- And also about this map it takes the current value and it passed the value(answerOption) in map all the four options
+by using 'currentquestion' variable and 'answeroptions' 
+
+*And also about this map it takes the current value and it passed the value(answerOption) in map all the four options
 will go and by condition it verifies the correct answer and count for the final score.
  {questions[currentQuestion].answerOptions.map((answerOption) =>(
                   <button onClick={()=> handleAnswerButtonClick(answerOption.isCorrect)}>{answerOption.answerText}</button>
