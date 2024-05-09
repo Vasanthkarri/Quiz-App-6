@@ -1,4 +1,5 @@
-* In the project I learned Quiz App click on option 
+* In the project I learned Quiz App how to change question and answer dynamically.
+* click on option 
 on "button" it triggers and automatically passes the next question 
 by using 'currentquestion' variable and 'answeroptions' also
 
